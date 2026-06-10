@@ -1,7 +1,7 @@
 export const environment = {
   production: false,
-  apiUrl: 'https://bakend-stp9.onrender.com',
-  wsBase: 'wss://bakend-stp9.onrender.com',
+  apiUrl: 'https://examen-si2-1.onrender.com',
+  wsBase: 'wss://examen-si2-1.onrender.com',
   firebase: {
     apiKey: 'REEMPLAZAR_CON_API_KEY_DE_FIREBASE_CONSOLE',
     authDomain: 'emergenciavehicularyary.firebaseapp.com',
